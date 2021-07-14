@@ -51,13 +51,13 @@ header{
     height:438px;
     margin-top:153px;
     margin-right:141px;
-    margin-left:52px;
+    margin-left:80px;
 }
 
 /* ===================== Players Card Css ===================== */
 
 .players{
-    margin-left:180px;
+    margin-left:200px;
     margin-right:210px;
     margin-top:250px;
     display:grid;
